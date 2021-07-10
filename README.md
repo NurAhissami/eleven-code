@@ -6,7 +6,7 @@ This is our first project at Adalab Bootcamp.
 
 The goal was to create a responsive website with information about our team and ourselves individually, according to the client needs, and it features a main page and a second page with a functional contact form.
 
-If you want to know more about us and about what we do please visit our [team's website](http://beta.adalab.es/project-promo-m-module-1-team-3/).
+If you want to know more about us and about what we do please visit our [team's website](https://nurahissami.github.io/eleven-code/).
 
 Main page
 
