@@ -10,11 +10,13 @@ If you want to know more about us and about what we do please visit our [team's 
 
 Main page
 
-![gif of desktop view ]()
+![gif of desktop view ](https://raw.githubusercontent.com/NurAhissami/eleven-code/master/webpage.png)
+
+
 
 Contact forma and page
 
-![gif of desktop view ]()
+![gif of desktop view ](https://raw.githubusercontent.com/NurAhissami/eleven-code/master/contact.png)
 
 All the design and pages are responsive and addaptable to all screen sizes.
 
@@ -72,3 +74,4 @@ This project was created by Eleven Code Team:
 > Lorena Orellana [🔗](https://github.com/Lorellana21)
 
 > Almudena Moyano [🔗](https://github.com/Almoyano)
+
